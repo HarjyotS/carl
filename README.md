@@ -1,10 +1,10 @@
-# 🏁 Gesture Racer
+# 🏁 Gyro Racer
 
 A fast-paced arcade space shooter where you navigate through waves of enemies, collect coins, and unlock upgrades. Control your ship by tilting your device or using arrow keys, and tap enemies to destroy them!
 
 ## 🎮 Game Overview
 
-Gesture Racer is a mobile-first HTML5 game that combines intuitive gesture controls with classic arcade shooter gameplay. Dodge obstacles, defeat increasingly challenging enemies, and survive as long as possible while racking up your high score.
+Gyro Racer is a mobile-first HTML5 game that combines intuitive gesture controls with classic arcade shooter gameplay. Dodge obstacles, defeat increasingly challenging enemies, and survive as long as possible while racking up your high score.
 
 ## 🕹️ Controls
 
@@ -193,7 +193,7 @@ The game follows a modular architecture:
 
 ## 🌟 Credits
 
-Gesture Racer - A modern HTML5 arcade experience combining classic shooter gameplay with intuitive gesture controls.
+Gyro Racer - A modern HTML5 arcade experience combining classic shooter gameplay with intuitive gesture controls.
 
 ---
 
